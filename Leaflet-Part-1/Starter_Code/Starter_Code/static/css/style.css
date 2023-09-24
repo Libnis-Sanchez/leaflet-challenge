@@ -1,0 +1,52 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend i {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 8px;
+}
+
+.legend .depth-0 {
+  background-color: #a3ff03;
+}
+
+.legend .depth-1 {
+  background-color: #e1ff00;
+}
+
+.legend .depth-2 {
+  background-color: #ffd900;
+}
+
+.legend .depth-3 {
+  background-color: #ffa600;
+}
+
+.legend .depth-4 {
+  background-color: #ff7300;
+}
+
+.legend .depth-5 {
+  background-color: #ff0000;
+}
